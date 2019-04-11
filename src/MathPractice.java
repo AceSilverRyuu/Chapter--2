@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class MathPractice {
 
     public static void main (String[] args){
-        int num1;
+        int num1 = 0;
         int num2;
         int num3;
 
