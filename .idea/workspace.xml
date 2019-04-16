@@ -66,20 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="madLibs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="madLibs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/madLibs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="43" column="99" lean-forward="true" selection-start-line="43" selection-start-column="99" selection-end-line="43" selection-end-column="99" />
+            <state relative-caret-position="379">
+              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eggs.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="eggs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/eggs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="561">
+              <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -181,12 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.madLibs">
-    <configuration name="DebugTwo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugTwo1" />
-      <module name="Chapter2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.eggs">
     <configuration name="InchesToFeetInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InchesToFeetInteractive" />
       <module name="Chapter2" />
@@ -203,6 +198,11 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="eggs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eggs" />
+      <module name="Chapter2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="madLibs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -249,19 +249,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DebugTwo1" />
       <item itemvalue="Application.QuartsToGallonsInteractive" />
       <item itemvalue="Application.NauticalMilesInteractive" />
       <item itemvalue="Application.InchesToFeetInteractive" />
       <item itemvalue="Application.madLibs" />
+      <item itemvalue="Application.eggs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.eggs" />
         <item itemvalue="Application.madLibs" />
         <item itemvalue="Application.InchesToFeetInteractive" />
         <item itemvalue="Application.NauticalMilesInteractive" />
         <item itemvalue="Application.QuartsToGallonsInteractive" />
-        <item itemvalue="Application.DebugTwo1" />
       </list>
     </recent_temporary>
   </component>
@@ -289,12 +289,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21041666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21041666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -492,6 +492,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/madLibs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/InchesToFeetInteractive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -501,15 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/eggs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/madLibs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="43" column="99" lean-forward="true" selection-start-line="43" selection-start-column="99" selection-end-line="43" selection-end-column="99" />
+        <state relative-caret-position="561">
+          <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
         </state>
       </provider>
     </entry>
