@@ -17,7 +17,7 @@ public class eggs {
 
         userEggs = keyboard.nextInt ();
 
-        dollars = ;
+//        dollars = ;
 
     }
 }

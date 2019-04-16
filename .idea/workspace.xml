@@ -66,20 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eggs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/eggs.java">
+      <file leaf-file-name="madLibs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/madLibs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="396">
+              <caret line="43" column="99" lean-forward="true" selection-start-line="43" selection-start-column="99" selection-end-line="43" selection-end-column="99" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="madLibs.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/madLibs.java">
+      <file leaf-file-name="eggs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/eggs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="98" selection-start-line="43" selection-start-column="98" selection-end-line="43" selection-end-column="98" />
+            <state relative-caret-position="187">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -129,8 +129,8 @@
         <option value="$PROJECT_DIR$/src/QuartsToGallonsInteractive.java" />
         <option value="$PROJECT_DIR$/src/NauticalMilesInteractive.java" />
         <option value="$PROJECT_DIR$/src/InchesToFeetInteractive.java" />
-        <option value="$PROJECT_DIR$/src/eggs.java" />
         <option value="$PROJECT_DIR$/src/madLibs.java" />
+        <option value="$PROJECT_DIR$/src/eggs.java" />
       </list>
     </option>
   </component>
@@ -280,7 +280,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -502,15 +501,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/eggs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/madLibs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="98" selection-start-line="43" selection-start-column="98" selection-end-line="43" selection-end-column="98" />
+        <state relative-caret-position="396">
+          <caret line="43" column="99" lean-forward="true" selection-start-line="43" selection-start-column="99" selection-end-line="43" selection-end-column="99" />
         </state>
       </provider>
     </entry>

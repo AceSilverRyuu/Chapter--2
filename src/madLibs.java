@@ -39,9 +39,9 @@ public class madLibs {
 
         c = a + b;
 
-        JOptionPane.showMessageDialog(null, "The " + color + "Dragon is the " + wordEST +
-                "dragon of all. It has "+ c + bodyPartPlural + ", and a " +animal + " shaped like a " + noun +
-                " It loves to eat " + pluralNoun + ", although it will feast on nearly anything.");
+        JOptionPane.showMessageDialog(null, "The " + color + " Dragon is the " + wordEST +
+                " dragon of all. It has "+ c  + " " + bodyPartPlural + ", and a " +animal + " shaped like a " + noun +
+                ". It loves to eat " + pluralNoun + ", although it will feast on nearly anything.");
 
 
     }
