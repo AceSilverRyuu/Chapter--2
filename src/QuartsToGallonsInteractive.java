@@ -5,7 +5,7 @@ public class QuartsToGallonsInteractive {
     public static void main(String [] args){
 
 int numberOfQuartsInputed;
-int numberOfQuartsInAGallon = 4;
+final int NUM_QUARTS_IN_GALLON = 4;
 int remainderOfQuarts;
 int numberOfGallons;
 
@@ -15,8 +15,8 @@ int numberOfGallons;
         numberOfQuartsInputed = keyboard.nextInt();
 
 
-        numberOfGallons = numberOfQuartsInputed / numberOfQuartsInAGallon;
-        remainderOfQuarts = numberOfQuartsInputed % numberOfQuartsInAGallon;
+        numberOfGallons = numberOfQuartsInputed / NUM_QUARTS_IN_GALLON;
+        remainderOfQuarts = numberOfQuartsInputed % NUM_QUARTS_IN_GALLON;
 
         System.out.println ("The number of gallons ordered is " + numberOfGallons + " and the number of quarts remaining is " + remainderOfQuarts);
     }
