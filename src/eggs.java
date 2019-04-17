@@ -5,13 +5,11 @@ public class eggs {
     public static void main (String[] args) {
 
         int userEggs;
-        double dozen;
-        double lastEggs;
-        double oneDozen = 12;
-        final double DOLLARS;
-  //      final int CENTS;
+        int dozen;
+        int lastEggs;
+        int oneDozen = 12;
         double perDozen = 3.25;
-        double singleEgg = 45;
+        double singleEgg = .45;
         final double TOTAL;
 
         Scanner keyboard = new Scanner (System.in);
@@ -20,17 +18,11 @@ public class eggs {
 
         userEggs = keyboard.nextInt ();
 
-        DOLLARS = userEggs * perDozen;
-
         dozen = userEggs / 12;
-
- //       CENTS =
-
-  //      TOTAL = DOLLARS + CENTS;
-
-        lastEggs = userEggs % oneDozen;
+        lastEggs = userEggs % 12;
+        TOTAL = (dozen * perDozen) + (lastEggs * singleEgg);
 
         System.out.println("You ordered " + userEggs + " eggs. That's " + dozen + " dozen at $3.25 per dozen and " +
-                lastEggs + " loose eggs at 45 cents each for a total of $" + /*TOTAL*/  ".");
+                lastEggs + " loose eggs at 45 cents each for a total of $" + TOTAL + ".");
     }
 }
